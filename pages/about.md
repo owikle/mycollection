@@ -8,12 +8,14 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Example About Content;About the Collection;About the About Page" %}
 
 # Example About Content
 
 The **first** sentence in my paragraph. 
 The *second* sentence in my paragraph.
+
+{% include feature/item-figure.html objectid="psychiana025" width="50" caption="image caption" float="left" %}
 
 A new paragraph on my about page.
 
