@@ -12,6 +12,9 @@ permalink: /about.html
 
 # Example About Content
 
+Hello ALA Core!
+Hope everything is going great.
+
 The **first** sentence in my paragraph. 
 The *second* sentence in my paragraph.
 
