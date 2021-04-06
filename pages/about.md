@@ -17,6 +17,8 @@ The *second* sentence in my paragraph.
 
 {% include feature/item-figure.html objectid="psychiana025" width="50" caption="image caption" float="left" %}
 
+{% include feature/card.html text="This is my example card." objectid="psychiana036" width="50" centered=true %}
+
 A new paragraph on my about page.
 
 A link to my [source code](https://github.com/owikle/mycollection)
